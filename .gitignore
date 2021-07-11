@@ -1,0 +1,5 @@
+config/mariaDB/dump/*
+config/nginx/logs
+config/nginx/site.conf.bkp
+config/ssl/*
+.env
