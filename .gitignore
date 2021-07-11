@@ -1,5 +1,6 @@
-config/mariaDB/dump/*
+config/mariaDB/dump/*.sql
 config/nginx/logs
 config/nginx/site.conf.bkp
-config/ssl/*
+config/ssl/*.pem
+config/ssl/old_cert
 .env
